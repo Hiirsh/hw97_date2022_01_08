@@ -1,0 +1,11 @@
+{
+  "name": "hw97_date2022_01_08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
